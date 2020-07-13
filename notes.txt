@@ -1,0 +1,4 @@
+To Install Flask -> pip3 install flask 
+
+
+Lerning resource: https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
